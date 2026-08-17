@@ -1,5 +1,6 @@
 # 🚀 Generator-Mod
 v 1.0 (BETA)
+
 **Automatically reveals all tanks in the WOT BLITZ research tree.**  
 Works with XML/YAML and DVPL (LZ4). Supports DLC packs, 3 modes, 6 languages.
 
