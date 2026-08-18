@@ -1,4 +1,4 @@
-# 🚀 HiddenTanks-Generator-Mod
+# 🚀 Generator-Mod
 
 **Automatyzacja wyświetlania wszystkich pojazdów w drzewie badań WOT BLITZ.**  
 Działa ze wszystkimi formatami plików (oryginalne `xml`/`yaml` i spakowane `dvpl`).
@@ -9,7 +9,7 @@ Program pozwala **w pełni odsłonić** wszystkie czołgi w hangarze, w tym ukry
 
 ## 📌 Co to jest?
 
-HiddenTanks-Generator-Mod to aplikacja komputerowa napisana w Pythonie/Tkinter, która:
+Generator-Mod to aplikacja komputerowa napisana w Pythonie/Tkinter, która:
 
 - Czyta pliki drzewa technologii (`tree_*.yaml`) i listy pojazdów (`list.xml`) gry World of Tanks Blitz.
 - Wyodrębnia wszystkie czołgi z `list.xml`, usuwa zbędne tagi (`deprecated`, `secret`, `testTank` itp.) i ustawia flagę `notInShop` na `false`.
