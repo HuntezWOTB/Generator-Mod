@@ -1,4 +1,4 @@
-# 🚀 HiddenTanks-Generator-Mod
+# 🚀 Generator-Mod
 
 **Автоматизация по отображению всей техники в дереве исследований WOT BLITZ.**  
 Работает со всеми форматами файлов (оригинальные `xml`/`yaml` и запакованные `dvpl`).
@@ -9,7 +9,7 @@
 
 ## 📌 Что это такое?
 
-HiddenTanks-Generator-Mod – это десктопное приложение на Python/Tkinter, которое:
+Generator-Mod – это десктопное приложение на Python/Tkinter, которое:
 
 - Читает файлы дерева технологий (`tree_*.yaml`) и списков техники (`list.xml`) игры World of Tanks Blitz.
 - Извлекает все танки из `list.xml`, удаляет служебные теги (`deprecated`, `secret`, `testTank` и т.п.), снимает флаг `notInShop`.
