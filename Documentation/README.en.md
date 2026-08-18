@@ -1,4 +1,4 @@
-# 🚀 HiddenTanks-Generator-Mod
+# 🚀 Generator-Mod
 
 **Automation to display all vehicles in the research tree of WOT BLITZ.**  
 Works with all file formats (original `xml`/`yaml` and packed `dvpl`).
@@ -9,7 +9,7 @@ The program allows you to **fully reveal** all tanks in the garage, including hi
 
 ## 📌 What is it?
 
-HiddenTanks-Generator-Mod is a desktop application written in Python/Tkinter that:
+Generator-Mod is a desktop application written in Python/Tkinter that:
 
 - Reads the technology tree files (`tree_*.yaml`) and vehicle list files (`list.xml`) of World of Tanks Blitz.
 - Extracts all tanks from `list.xml`, removes unnecessary tags (`deprecated`, `secret`, `testTank`, etc.), and sets `notInShop` to `false`.
